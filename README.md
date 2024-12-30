@@ -4,6 +4,8 @@ I'm an enthusiastic IT student and a **final-year B.Tech student** at **Dr. Baba
 
 ## 🚀 What I Do
 
+## 🚀 What I Do
+
 ### 🤖 Machine Learning
 - Designing and training models for predictive analytics and natural language processing.
 
@@ -13,6 +15,9 @@ I'm an enthusiastic IT student and a **final-year B.Tech student** at **Dr. Baba
 ### 📈 Data Visualization
 - Creating compelling visualizations to communicate data-driven findings effectively.
 - Building interactive dashboards and reports using **Power BI** to visualize complex data trends and insights for informed decision-making.
+
+### 🌐 Web Scraping
+- Extracting data from websites using **Python** and libraries like **BeautifulSoup** and **Selenium** to gather valuable information for analysis and research.
 
 ---
 
@@ -44,7 +49,7 @@ scoring, with contour mapping to highlight altered regions.
 - Pre-processed missing and erroneous data using SQL queries, ensuring data accuracy and reliability for analytical insights. 
 Leveraged Power BI visualization tools to present insights, using bar, line, and pie charts to reveal patterns in traffic 
 - [MySQL | Power BI | Power Query | Excel]
-- 
+
 ### Portfolio Website
 - A data-centric portfolio to showcase my skills and projects. *(Work in Progress)*
 ---
