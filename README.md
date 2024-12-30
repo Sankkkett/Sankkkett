@@ -4,8 +4,6 @@ I'm an enthusiastic IT student and a **final-year B.Tech student** at **Dr. Baba
 
 ## 🚀 What I Do
 
-## 🚀 What I Do
-
 ### 🤖 Machine Learning
 - Designing and training models for predictive analytics and natural language processing.
 
