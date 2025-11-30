@@ -4,15 +4,15 @@ I'm an enthusiastic IT student and a **final-year B.Tech student** at **Dr. Baba
 
 ## 🚀 What I Do
 
-### 🤖 Machine Learning
-- Designing and training models for predictive analytics and natural language processing.
-
 ### 📊 Data Analysis
 - Transforming raw data into actionable insights using advanced statistical methods.
 
 ### 📈 Data Visualization
 - Creating compelling visualizations to communicate data-driven findings effectively.
 - Building interactive dashboards and reports using **Power BI** to visualize complex data trends and insights for informed decision-making.
+
+### 🤖 Machine Learning
+- Designing and training models for predictive analytics and natural language processing.
 
 ### 🌐 Web Scraping
 - Extracting data from websites using **Python** and libraries like **BeautifulSoup** and **Selenium** to gather valuable information for analysis and research.
