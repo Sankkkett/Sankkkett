@@ -48,8 +48,6 @@ scoring, with contour mapping to highlight altered regions.
 Leveraged Power BI visualization tools to present insights, using bar, line, and pie charts to reveal patterns in traffic 
 - [MySQL | Power BI | Power Query | Excel]
 
-### Portfolio Website
-- A data-centric portfolio to showcase my skills and projects. *(Work in Progress)*
 ---
 
 ## 🛠️ Tech Stack
