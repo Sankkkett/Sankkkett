@@ -1,6 +1,6 @@
 # Hello! I'm Sanket Pawar. 👋
 
-I'm an enthusiastic IT student and a **final-year B.Tech student** at **Dr. Babasaheb Ambedkar Technological University, Lonere**, with a strong focus on Data Science. I enjoy working on projects that leverage data to drive meaningful insights and solve real-world problems.
+I'm an enthusiastic IT student and a **B.Tech student** at **Dr. Babasaheb Ambedkar Technological University, Lonere**, with a strong focus on Data Science. I enjoy working on projects that leverage data to drive meaningful insights and solve real-world problems.
 
 ## 🚀 What I Do
 
